@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(251, 232, 253);
+}
+
+h1 {
+    font-family: Garamond, seif;
+    color:rgb(161, 96, 222);
+    font-size: 42px;
+    font-weight: 800;
+}
+
+h3{
+    color:rgb(161, 96, 222);  
+}
+
+li, p {
+    font-family: Arial;
+    font-size: 15px;  
+    color:rgb(62, 62, 62) 
+}
+
+.description{
+    background-color: white;
+}
+
+div{
+    padding: 10px;
+}
+
+#home{
+   font-size: 50px;
+}
+
+.bigpara{
+    font-size: 17px;
+}
